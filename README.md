@@ -1,2 +1,2 @@
 # Project_final_assignement
-first project for tools of data science course 
+final assignement: project tools for data science 
